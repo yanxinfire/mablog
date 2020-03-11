@@ -14,4 +14,9 @@ if platform.system() == "Windows":
     import asyncio
     asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 ```
+### 项目展示
+#### 日志展示
+![Image text](https://raw.githubusercontent.com/yanxinfire/manabe/master/images/mablog_1.jpg）
 
+##### 项目部署过程中，进度展示：
+![Image text](https://raw.githubusercontent.com/yanxinfire/manabe/master/images/mablog_2.jpg）
